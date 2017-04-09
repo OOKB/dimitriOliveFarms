@@ -1,7 +1,7 @@
 ---
 title: Roast Leg of Lamb
 date: 2017-04-09 17:28:00 Z
-Ingredients:
+ingredients:
 - '1 leg of lamb, boneless. tied up with kitchen string by butcher '
 - 10 cloves roasted garlic
 - "½ pound kefalograviera cheese (sharp Greek cheese)"
@@ -13,7 +13,6 @@ Ingredients:
 - "½ cup water"
 - Parchment paper
 - Aluminum foil
-layout: default
 ---
 
 Bake the whole garlic for 20 minutes (375°F) on a parchment paper. Let it cool and peel. You can keep it in the refrigerator in a glass container for a month. 
