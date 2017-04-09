@@ -23,4 +23,10 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: recipes
+  values:
+    layout: page
+    ingredients: []
 permalink: pretty
