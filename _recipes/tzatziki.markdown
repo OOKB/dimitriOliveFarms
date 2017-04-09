@@ -1,7 +1,7 @@
 ---
 title: Tzatziki
 date: 2017-04-09 17:26:00 Z
-Ingredients:
+ingredients:
 - 1 pint  Greek yoghurt FAGE
 - 1 English cucumber
 - 1/3 cup Dimitri Extra Virgin Olive Oil (DEVOO)
